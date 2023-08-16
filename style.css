@@ -118,7 +118,7 @@ body{
     display: none ;
 }
 #hero{
-    background-image: url("img/modelll.webp");
+    background-image: url("./modelll.webp");
     height: 100vh ;
     width: 100%;
     background-size: cover;
@@ -137,7 +137,7 @@ body{
     color: #088178;
 }
 #hero button{
-    background-image: url("img/button.png");
+    background-image: url("./button.png");
     background-color: transparent ;
     color: #088178;
     border: 0;
@@ -246,7 +246,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(img/banner/banner.jpg);
+    background-image: url(./banner/banner.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -278,7 +278,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(img/banner/b17.jpg);
+    background-image: url(./banner/b17.jpg);
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -286,7 +286,7 @@ body{
     padding: 30px;
 }
 #sm-banner .banner-box2{
-    background-image: url(img/banner/b10.jpg);
+    background-image: url(./banner/b10.jpg);
 }
 #sm-banner h4{
     color: #fff;
@@ -323,7 +323,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(img/banner/b7.jpg);
+    background-image: url(./banner/b7.jpg);
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -332,10 +332,10 @@ body{
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url(img/banner/b4.jpg);
+    background-image: url(./banner/b4.jpg);
 }
 #banner3 .banner-box3{
-    background-image: url(img/banner/b18.jpg);
+    background-image: url(./banner/b18.jpg);
 }
 #banner3 h2{
     color: #fff;
@@ -352,7 +352,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("img/banner/b14.png");
+    background-image: url("./banner/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42 ;
@@ -445,7 +445,7 @@ footer .copyright{
     text-align: center;
 }
 #page-header{
-    background-image: url(img/banner/pink\ banner.jpg);
+    background-image: url(./banner/pink\ banner.jpg);
     Width: 100%;
     height: 40vh;
     background-size: cover;
@@ -524,7 +524,7 @@ footer .copyright{
     line-height: 25px;
 }
 #page-header.about-header{
-    background-image: url(img/about/banner.png);
+    background-image: url(./about/banner.png);
 }
 #about-head{
     display: flex;
